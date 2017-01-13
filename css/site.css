@@ -49,6 +49,7 @@ footer
     border: none;
 }
 
-.post-meta .btn {
-    margin-right: 5px;
+.post-meta {
+    font-size: small;
+    font-style: italic;
 }
